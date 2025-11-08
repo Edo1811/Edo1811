@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning french
 - 💞️ I’m looking to collaborate on Unreal Engine 5.6
 - 📫 How to reach me: HAHA troll! U can't 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im programming on a Samsung Smart Refrigerator lol
 
 <!---
