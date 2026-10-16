@@ -2,7 +2,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=backend+dev.;engine+builder.;mod+maker.;ships+things." alt="typing intro" />
 
-### Edo · Stuttgart · Rana Studios
+### Hey, I'm Edo 👋
+
+Stuttgart-based, self-taught, and I build things because I can't not.
 
 *Coding since 9. Started with Minecraft command blocks. Now writing engines and operating systems.*
 
@@ -17,24 +19,41 @@
 
 ---
 
+## 👤 About me
+
+- 🎮 Minecraft PvP main, GTA and CoD when the mood hits
+- 🍳 Cooking is a serious hobby
+- 🚲 Bike rides, rarely but with conviction
+- 🗣️ Italian, German, English, and French loading
+
+---
+
+## 🏢 Founder & Lead Developer @ Rana Studios
+
+I run **Rana Studios**, where I lead development on everything we ship: games, mods and tools.
+Backend is my home turf, JavaScript especially, and I'll happily go as low-level as C and C++ when a project needs it.
+
+[ranastudios.dev](https://ranastudios.dev)
+
+---
+
 ## 🧾 Receipts
 
 | Project | What it is |
 |---|---|
-| **Delve** | Voxel mining economy game, built under Rana Studios |
-| **ALP** ([aluckyplace.com](https://aluckyplace.com)) | Online casino running on virtual currency only |
-| **PrettyPose** | Emote-animation Fabric mod, published on Modrinth |
-| **Aethercore** | My own game engine in C++ on OpenGL 4.5 |
+| **Delve** | A voxel mining economy game. Dig deep, trade smart, under Rana Studios |
+| **ALP** ([aluckyplace.com](https://aluckyplace.com)) | An online casino running on virtual currency only. All the thrill, none of the rent money |
+| **PrettyPose** | My emote-animation Fabric mod, live on Modrinth |
+| **Aethercore** | My own C++ engine on OpenGL 4.5, because using someone else's was too easy |
 
 ---
 
 <div align="center">
 
+### Got a project in mind? Come say hi.
+
+📧 [edo.buccilli@ranastudios.dev](mailto:edo.buccilli@ranastudios.dev)
+
 **Rana Studios** · [ranastudios.dev](https://ranastudios.dev)
 
 </div>
-
-<!---
-Edo1811/Edo1811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
