@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=backend+dev.;engine+builder.;mod+maker.;ships+things." alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=backend+dev.;engine+builder.;mod+maker.;vibe+codes." alt="typing intro" />
 
 ### Hey, I'm Edo 👋
 
@@ -10,10 +10,10 @@ Stuttgart-based, self-taught, and I build things because I can't not.
 
 [![Rana Studios](https://img.shields.io/badge/ranastudios.dev-0d1117?style=for-the-badge&logo=cloudflare&logoColor=A78BFA)](https://ranastudios.dev)
 
-<!-- Add when ready:
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=A78BFA)](YOUR_DISCORD_INVITE)
-[![Modrinth](https://img.shields.io/badge/Modrinth-0d1117?style=for-the-badge&logo=modrinth&logoColor=A78BFA)](YOUR_MODRINTH_PROFILE)
--->
+
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=A78BFA)](https://discord.gg/VB44MyD7YD)
+[![Modrinth](https://img.shields.io/badge/Modrinth-0d1117?style=for-the-badge&logo=modrinth&logoColor=A78BFA)](https://modrinth.com/user/itzrealdodo)
+
 
 </div>
 
