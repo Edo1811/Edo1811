@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=backend+dev.;engine+builder.;mod+maker.;vibe+codes." alt="typing intro" />
 
-### Hey, I'm Edo 👋
+<img src="banner.svg" alt="Hey, I'm Edo - Founder & Lead Developer @ Rana Studios" width="600" />
 
 Stuttgart-based, self-taught, and I build things because I can't not. Specialized in C++, Js and Java (Minecarft Paper or Fabric)
 
