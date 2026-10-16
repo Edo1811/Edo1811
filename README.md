@@ -30,7 +30,7 @@ Stuttgart-based, self-taught, and I build things because I can't not. Specialize
 ## 🏢 Founder & Lead Developer @ Rana Studios
 
 I run **Rana Studios**, where I lead development on everything we ship: games, mods and tools (Actually just games tbf).
-Backend is my home turf, JavaScript especially, and Claude wi- ehm i mean **I** will happily go as low-level as C++ when a project needs it.
+Backend is my home, JavaScript especially, and Claude wi- ehm i mean **I** will happily go as low-level as C++ when a project needs it.
 
 [ranastudios.dev](https://ranastudios.dev)
 
@@ -49,7 +49,7 @@ Backend is my home turf, JavaScript especially, and Claude wi- ehm i mean **I** 
 
 <div align="center">
 
-### Got a project in mind? Come say hi.
+### Got a project in mind? Come say hi :D
 
 📧 [edo.buccilli@ranastudios.dev](mailto:edo.buccilli@ranastudios.dev)
 
