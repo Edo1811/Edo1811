@@ -41,9 +41,10 @@ Backend is my home, JavaScript especially, and Claude wi- ehm i mean **I** will 
 | Project | What it is |
 |---|---|
 | **Delve** | A voxel mining economy game. Dig deep, trade smart, under Rana Studios |
-| **ALP** ([aluckyplace.com](https://aluckyplace.com)) | An online casino running on virtual currency only. All the thrill, none of the rent money |
+| **A Lucky Place** ([aluckyplace.com](https://aluckyplace.com)) | An online casino running on virtual currency only. All the thrill, none of the rent money |
 | **PrettyPose** | My emote-animation Fabric mod, live on Modrinth |
-| **Aethercore** | My own C++ engine on OpenGL 4.5, because using someone else's was too easy |
+| **FriendlessMC** | Link your Claude account, launch a local server and make it join it so that you can finally play minecraft with someone |
+| **OpenCrystal** | Ugly, vibe coded crystalpvp practice game |
 
 ---
 
