@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=backend+dev.;engine+builder.;mod+maker.;vibe+codes." alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=backend+dev.;engine+builder.;mod+maker.;vibe+codes.;aura+farmer.;scorpio.;looking+for+a+job.;" alt="typing intro" />
 
 <img src="banner.svg" alt="Hey, I'm Edo - Founder & Lead Developer @ Rana Studios" width="600" />
 
@@ -20,9 +20,9 @@ Stuttgart-based, self-taught, and I build things because I can't not. Specialize
 
 ## 👤 About me
 
-- 🎮 Minecraft PvP main, sometimes gta and call of duty
+- 🎮 Minecraft Crystal PvP main, sometimes gta and call of duty
 - 🍳 Cooking is a serious hobby
-- 🚲 Bike rides, rarely but with conviction
+- 🚲 Bike rides, rarely
 - 🗣️ Italian, german, english, and pretending to know french
 
 ---
@@ -32,6 +32,8 @@ Stuttgart-based, self-taught, and I build things because I can't not. Specialize
 I run **Rana Studios**, where I lead development on everything we ship: games, mods and tools (Actually just games tbf).
 Backend is my home, JavaScript especially, and Claude wi- ehm i mean **I** will happily go as low-level as C++ when a project needs it.
 
+## Did you always want to make a website but didnt know how and didnt know who to call? We can help you. Send us a ping!
+[Contact us!](mailto:contact@ranastudios.dev)
 [ranastudios.dev](https://ranastudios.dev)
 
 ---
@@ -40,12 +42,14 @@ Backend is my home, JavaScript especially, and Claude wi- ehm i mean **I** will 
 
 | Project | What it is |
 |---|---|
-| **Delve** | A voxel mining economy game. Dig deep, trade smart, under Rana Studios |
-| **A Lucky Place** ([aluckyplace.com](https://aluckyplace.com)) | An online casino running on virtual currency only. All the thrill, none of the rent money |
-| **PrettyPose** | My emote-animation Fabric mod, live on Modrinth |
+| **Delve** | Voxel mining game, soon on steam. Try to become the richest by selling any item in the game!1! |
+| **A Lucky Place** ([aluckyplace.com](https://aluckyplace.com)) | An online casino without real money. The beauty of gambling without the pain of losing [click me!](aluckyplace.com) |
+| **PrettyPose** | My emote-animation Fabric mod, review pending on Modrinth [click me!](https://modrinth.com/mod/prettypose) |
 | **FriendlessMC** | Link your Claude account, launch a local server and make it join it so that you can finally play minecraft with someone |
 | **OpenCrystal** | Ugly, vibe coded crystalpvp practice game |
-
+| **Crystal Client** | Pretty, elegant minecraft client made for playing crystal pvp without restarting the game to go back to vanilla |
+| **Varispeed** | Where people get their "slowed" edits from - [click me!](https://varispeed.ranastudios.dev) |
+| **MMaRP** | Moderation Manager and Ranks Plugin. Revolutionizing minecraft moderation (still in dev) [click me!](https://mmarp.ranastudios.dev)
 ---
 
 <div align="center">
