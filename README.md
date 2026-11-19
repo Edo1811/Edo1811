@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=backend+dev.;engine+builder.;mod+maker.;vibe+codes.;aura+farmer.;scorpio.;looking+for+a+job.;" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=aura+farmer.;engine+builder.;owns+a+gpu+now.;looking+for+a+job.;vibe+codes.;doesn%27t+like+rust.;backend+dev.;scorpio.;mod+maker.;owns+a+gpu+now.;engine+builder.;aura+farmer.;doesn%27t+like+rust.;backend+dev.;looking+for+a+job.;mod+maker.;vibe+codes.;owns+a+gpu+now.;scorpio.;engine+builder.;doesn%27t+like+rust.;backend+dev.;aura+farmer.;mod+maker.;scorpio.;looking+for+a+job.;vibe+codes.;get+off+my+profile." alt="typing intro" />
 
 <img src="banner.svg" alt="Hey, I'm Edo - Founder & Lead Developer @ Rana Studios" width="600" />
 
