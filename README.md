@@ -4,7 +4,7 @@
 
 <img src="banner.svg" alt="Hey, I'm Edo - Founder & Lead Developer @ Rana Studios" width="600" />
 
-Stuttgart-based, self-taught, and I build things because I can't not. Specialized in C++, Js and Java (Minecarft Paper or Fabric)
+Stuttgart-based, self-taught, and I build things because using other ppls shit is embbarassing \#no-to-oracle. Specialized in C++, Js and Java (Minecarft Paper or Fabric)
 
 *Coding since 9. Started with Minecraft command blocks. Now writing everything else*
 
