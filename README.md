@@ -29,7 +29,7 @@ Stuttgart-based, self-taught, and I build things because using other ppls shit i
 
 ## 🏢 Founder & Lead Developer @ Rana Studios
 
-I run **Rana Studios**, where I lead development on everything we ship: games, mods and tools (Actually just games tbf).
+I run **Rana Studios**, where I lead development on everything.
 Backend is my home, JavaScript especially, and Claude wi- ehm i mean **I** will happily go as low-level as C++ when a project needs it.
 
 ## Did you always want to make a website but didnt know how and didnt know who to call? We can help you. Send us a ping!
@@ -43,7 +43,7 @@ Backend is my home, JavaScript especially, and Claude wi- ehm i mean **I** will 
 | Project | What it is |
 |---|---|
 | **Delve** | Voxel mining game, soon on steam. Try to become the richest by selling any item in the game!1! |
-| **A Lucky Place** ([aluckyplace.com](https://aluckyplace.com)) | An online casino without real money. The beauty of gambling without the pain of losing [click me!](aluckyplace.com) |
+| **A Lucky Place** ([aluckyplace.com](https://aluckyplace.com)) | An online casino without real money. The beauty of gambling without the pain of losing [click me!](https://aluckyplace.com) |
 | **PrettyPose** | My emote-animation Fabric mod, review pending on Modrinth [click me!](https://modrinth.com/mod/prettypose) |
 | **FriendlessMC** | Link your Claude account, launch a local server and make it join it so that you can finally play minecraft with someone |
 | **OpenCrystal** | Ugly, vibe coded crystalpvp practice game |
