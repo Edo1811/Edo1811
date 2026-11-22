@@ -4,9 +4,9 @@
 
 <img src="banner.svg" alt="Hey, I'm Edo - Founder & Lead Developer @ Rana Studios" width="600" />
 
-Stuttgart-based, self-taught, and I build things because using other ppls shit is embbarassing \#no-to-oracle. Specialized in C++, Js and Java (Minecarft Paper or Fabric)
+Stuttgart-based, self-taught, and I build things so that i can show them at a job application \#no-to-oracle. Specialized in C++, Js and Java (Minecarft Paper or Fabric)
 
-*Coding since 9. Started with Minecraft command blocks. Now writing everything else*
+*Coding since 9. Started with Minecraft command blocks*
 
 [<img src="ranastudios-logo.png" height="28" alt="Rana Studios" />](https://ranastudios.dev) [![ranastudios.dev](https://img.shields.io/badge/ranastudios.dev-0d1117?style=for-the-badge)](https://ranastudios.dev)
 
