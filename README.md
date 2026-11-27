@@ -49,6 +49,7 @@ Backend is my home, JavaScript especially, and Claude wi- ehm i mean **I** will 
 | **OpenCrystal** | Ugly, vibe coded crystalpvp practice game |
 | **Crystal Client** | Pretty, elegant minecraft client made for playing crystal pvp without restarting the game to go back to vanilla |
 | **Varispeed** | Where people get their "slowed" edits from - [click me!](https://varispeed.ranastudios.dev) |
+| **Structura** | Build logic out of blocks. Recursion you can zoom into forever, it yells at you when your structure can't escape itself and every step goes *click*. Open source! [click me!](https://github.com/Edo1811/Structura) |
 | **MMaRP** | Moderation Manager and Ranks Plugin. Revolutionizing minecraft moderation (still in dev) [click me!](https://mmarp.ranastudios.dev)
 ---
 
